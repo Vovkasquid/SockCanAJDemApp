@@ -9,3 +9,4 @@ $(PRG): $(PRG).o
 
 clean:
 	rm -f $(PRG) *.o
+	rm -f *~
